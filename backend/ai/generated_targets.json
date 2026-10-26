@@ -1,0 +1,741 @@
+{
+    "그": {
+        "visual": {
+            "target_avg": 0.5552585765223433,
+            "target_max": 0.5815217391304348,
+            "target_movement": 0.04691966300586736
+        },
+        "audio_aliases": [
+            "그"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.5552585765223433,
+                "max_ratio": 0.5815217391304348,
+                "min_ratio": 0.5346020761245674,
+                "movement_range": 0.04691966300586736
+            }
+        ]
+    },
+    "끄": {
+        "visual": {
+            "target_avg": 0.5284851228583772,
+            "target_max": 0.5747663551401869,
+            "target_movement": 0.09564110663124059
+        },
+        "audio_aliases": [
+            "끄"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.5284851228583772,
+                "max_ratio": 0.5747663551401869,
+                "min_ratio": 0.47912524850894633,
+                "movement_range": 0.09564110663124059
+            }
+        ]
+    },
+    "느": {
+        "visual": {
+            "target_avg": 0.5101293141658441,
+            "target_max": 0.543233082706767,
+            "target_movement": 0.06092395793954164
+        },
+        "audio_aliases": [
+            "느"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.5101293141658441,
+                "max_ratio": 0.543233082706767,
+                "min_ratio": 0.4823091247672253,
+                "movement_range": 0.06092395793954164
+            }
+        ]
+    },
+    "드": {
+        "visual": {
+            "target_avg": 0.5254944267049776,
+            "target_max": 0.5515548281505729,
+            "target_movement": 0.04797059875989185
+        },
+        "audio_aliases": [
+            "드"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.5254944267049776,
+                "max_ratio": 0.5515548281505729,
+                "min_ratio": 0.503584229390681,
+                "movement_range": 0.04797059875989185
+            }
+        ]
+    },
+    "뜨": {
+        "visual": {
+            "target_avg": 0.5281944392356177,
+            "target_max": 0.565947242206235,
+            "target_movement": 0.07202011670016217
+        },
+        "audio_aliases": [
+            "뜨"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.5281944392356177,
+                "max_ratio": 0.565947242206235,
+                "min_ratio": 0.4939271255060729,
+                "movement_range": 0.07202011670016217
+            }
+        ]
+    },
+    "르": {
+        "visual": {
+            "target_avg": 0.5409671773987987,
+            "target_max": 0.5652173913043478,
+            "target_movement": 0.05142428785607189
+        },
+        "audio_aliases": [
+            "르"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.5409671773987987,
+                "max_ratio": 0.5652173913043478,
+                "min_ratio": 0.5137931034482759,
+                "movement_range": 0.05142428785607189
+            }
+        ]
+    },
+    "므": {
+        "visual": {
+            "target_avg": 0.5029583930789806,
+            "target_max": 0.5876106194690266,
+            "target_movement": 0.22993271684730376
+        },
+        "audio_aliases": [
+            "므"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.5029583930789806,
+                "max_ratio": 0.5876106194690266,
+                "min_ratio": 0.35767790262172283,
+                "movement_range": 0.22993271684730376
+            }
+        ]
+    },
+    "브": {
+        "visual": {
+            "target_avg": 0.5010993343853312,
+            "target_max": 0.5739750445632799,
+            "target_movement": 0.24440818957269606
+        },
+        "audio_aliases": [
+            "브"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.5010993343853312,
+                "max_ratio": 0.5739750445632799,
+                "min_ratio": 0.3295668549905838,
+                "movement_range": 0.24440818957269606
+            }
+        ]
+    },
+    "쁘": {
+        "visual": {
+            "target_avg": 0.4269222806134848,
+            "target_max": 0.5504385964912281,
+            "target_movement": 0.2324561403508772
+        },
+        "audio_aliases": [
+            "쁘"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.4269222806134848,
+                "max_ratio": 0.5504385964912281,
+                "min_ratio": 0.31798245614035087,
+                "movement_range": 0.2324561403508772
+            }
+        ]
+    },
+    "스": {
+        "visual": {
+            "target_avg": 0.5202341326189531,
+            "target_max": 0.5483870967741935,
+            "target_movement": 0.05348913759052004
+        },
+        "audio_aliases": [
+            "스"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.5202341326189531,
+                "max_ratio": 0.5483870967741935,
+                "min_ratio": 0.49489795918367346,
+                "movement_range": 0.05348913759052004
+            }
+        ]
+    },
+    "쓰": {
+        "visual": {
+            "target_avg": 0.5089238331952569,
+            "target_max": 0.5444915254237288,
+            "target_movement": 0.058350800477033726
+        },
+        "audio_aliases": [
+            "쓰"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.5089238331952569,
+                "max_ratio": 0.5444915254237288,
+                "min_ratio": 0.4861407249466951,
+                "movement_range": 0.058350800477033726
+            }
+        ]
+    },
+    "아": {
+        "visual": {
+            "target_avg": 0.8082116579253875,
+            "target_max": 0.886373381356659,
+            "target_movement": 0.2853140928191096
+        },
+        "audio_aliases": [
+            "아"
+        ],
+        "sample_count": 2,
+        "samples": [
+            {
+                "avg_ratio": 0.5943207658627656,
+                "max_ratio": 0.6568047337278107,
+                "min_ratio": 0.4901185770750988,
+                "movement_range": 0.16668615665271186
+            },
+            {
+                "avg_ratio": 1.0221025499880094,
+                "max_ratio": 1.1159420289855073,
+                "min_ratio": 0.712,
+                "movement_range": 0.40394202898550735
+            }
+        ]
+    },
+    "애": {
+        "visual": {
+            "target_avg": 0.812983437160749,
+            "target_max": 0.8839779005524862,
+            "target_movement": 0.23999884296086316
+        },
+        "audio_aliases": [
+            "애"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.812983437160749,
+                "max_ratio": 0.8839779005524862,
+                "min_ratio": 0.643979057591623,
+                "movement_range": 0.23999884296086316
+            }
+        ]
+    },
+    "야": {
+        "visual": {
+            "target_avg": 0.5943207658627656,
+            "target_max": 0.6568047337278107,
+            "target_movement": 0.16668615665271186
+        },
+        "audio_aliases": [
+            "야"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.5943207658627656,
+                "max_ratio": 0.6568047337278107,
+                "min_ratio": 0.4901185770750988,
+                "movement_range": 0.16668615665271186
+            }
+        ]
+    },
+    "어": {
+        "visual": {
+            "target_avg": 0.881110492492991,
+            "target_max": 2.115702479338843,
+            "target_movement": 1.416986465182076
+        },
+        "audio_aliases": [
+            "어"
+        ],
+        "sample_count": 2,
+        "samples": [
+            {
+                "avg_ratio": 1.0663603602042107,
+                "max_ratio": 3.4545454545454546,
+                "min_ratio": 0.8503937007874016,
+                "movement_range": 2.604151753758053
+            },
+            {
+                "avg_ratio": 0.6958606247817714,
+                "max_ratio": 0.7768595041322314,
+                "min_ratio": 0.5470383275261324,
+                "movement_range": 0.22982117660609902
+            }
+        ]
+    },
+    "에": {
+        "visual": {
+            "target_avg": 0.6240509133681978,
+            "target_max": 0.6728280961182994,
+            "target_movement": 0.07540162553006413
+        },
+        "audio_aliases": [
+            "에"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.6240509133681978,
+                "max_ratio": 0.6728280961182994,
+                "min_ratio": 0.5974264705882353,
+                "movement_range": 0.07540162553006413
+            }
+        ]
+    },
+    "여": {
+        "visual": {
+            "target_avg": 0.6886609286730525,
+            "target_max": 0.8177923818212921,
+            "target_movement": 0.2814150932632833
+        },
+        "audio_aliases": [
+            "여"
+        ],
+        "sample_count": 2,
+        "samples": [
+            {
+                "avg_ratio": 0.6247649876975061,
+                "max_ratio": 0.7570422535211268,
+                "min_ratio": 0.44537815126050423,
+                "movement_range": 0.3116641022606225
+            },
+            {
+                "avg_ratio": 0.752556869648599,
+                "max_ratio": 0.8785425101214575,
+                "min_ratio": 0.6273764258555133,
+                "movement_range": 0.2511660842659441
+            }
+        ]
+    },
+    "오": {
+        "visual": {
+            "target_avg": 0.9716873541393678,
+            "target_max": 1.1832034632034634,
+            "target_movement": 0.408887673729779
+        },
+        "audio_aliases": [
+            "오"
+        ],
+        "sample_count": 2,
+        "samples": [
+            {
+                "avg_ratio": 0.8697446046365235,
+                "max_ratio": 1.1066666666666667,
+                "min_ratio": 0.6526315789473685,
+                "movement_range": 0.45403508771929824
+            },
+            {
+                "avg_ratio": 1.0736301036422122,
+                "max_ratio": 1.2597402597402598,
+                "min_ratio": 0.896,
+                "movement_range": 0.3637402597402598
+            }
+        ]
+    },
+    "와": {
+        "visual": {
+            "target_avg": 0.8412053385780558,
+            "target_max": 1.0368098159509203,
+            "target_movement": 0.4484522275933319
+        },
+        "audio_aliases": [
+            "와"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.8412053385780558,
+                "max_ratio": 1.0368098159509203,
+                "min_ratio": 0.5883575883575883,
+                "movement_range": 0.4484522275933319
+            }
+        ]
+    },
+    "왜": {
+        "visual": {
+            "target_avg": 0.7669058730646942,
+            "target_max": 1.03003003003003,
+            "target_movement": 0.38083648164293327
+        },
+        "audio_aliases": [
+            "왜"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.7669058730646942,
+                "max_ratio": 1.03003003003003,
+                "min_ratio": 0.6491935483870968,
+                "movement_range": 0.38083648164293327
+            }
+        ]
+    },
+    "외": {
+        "visual": {
+            "target_avg": 0.8501565573293578,
+            "target_max": 1.0072289156626506,
+            "target_movement": 0.297908220559965
+        },
+        "audio_aliases": [
+            "외"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.8501565573293578,
+                "max_ratio": 1.0072289156626506,
+                "min_ratio": 0.7093206951026856,
+                "movement_range": 0.297908220559965
+            }
+        ]
+    },
+    "요": {
+        "visual": {
+            "target_avg": 0.5944369551999621,
+            "target_max": 0.6634146341463415,
+            "target_movement": 0.1163294323526195
+        },
+        "audio_aliases": [
+            "요"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.5944369551999621,
+                "max_ratio": 0.6634146341463415,
+                "min_ratio": 0.547085201793722,
+                "movement_range": 0.1163294323526195
+            }
+        ]
+    },
+    "우": {
+        "visual": {
+            "target_avg": 0.6925068805438418,
+            "target_max": 0.8408237461248268,
+            "target_movement": 0.26715811787975946
+        },
+        "audio_aliases": [
+            "우"
+        ],
+        "sample_count": 3,
+        "samples": [
+            {
+                "avg_ratio": 0.5805343213984713,
+                "max_ratio": 0.6318407960199005,
+                "min_ratio": 0.515,
+                "movement_range": 0.1168407960199005
+            },
+            {
+                "avg_ratio": 0.4963374128333165,
+                "max_ratio": 0.7088122605363985,
+                "min_ratio": 0.4583333333333333,
+                "movement_range": 0.25047892720306514
+            },
+            {
+                "avg_ratio": 1.0006489073997378,
+                "max_ratio": 1.1818181818181819,
+                "min_ratio": 0.7476635514018691,
+                "movement_range": 0.43415463041631275
+            }
+        ]
+    },
+    "워": {
+        "visual": {
+            "target_avg": 0.9339694017120532,
+            "target_max": 1.1832579185520362,
+            "target_movement": 0.5185292363814936
+        },
+        "audio_aliases": [
+            "워"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.9339694017120532,
+                "max_ratio": 1.1832579185520362,
+                "min_ratio": 0.6647286821705426,
+                "movement_range": 0.5185292363814936
+            }
+        ]
+    },
+    "웨": {
+        "visual": {
+            "target_avg": 0.9855893609538695,
+            "target_max": 1.2225519287833828,
+            "target_movement": 0.39431663466573574
+        },
+        "audio_aliases": [
+            "웨"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.9855893609538695,
+                "max_ratio": 1.2225519287833828,
+                "min_ratio": 0.8282352941176471,
+                "movement_range": 0.39431663466573574
+            }
+        ]
+    },
+    "위": {
+        "visual": {
+            "target_avg": 0.7304555438113702,
+            "target_max": 0.8533333333333334,
+            "target_movement": 0.21666666666666667
+        },
+        "audio_aliases": [
+            "위"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.7304555438113702,
+                "max_ratio": 0.8533333333333334,
+                "min_ratio": 0.6366666666666667,
+                "movement_range": 0.21666666666666667
+            }
+        ]
+    },
+    "유": {
+        "visual": {
+            "target_avg": 0.6579610086151706,
+            "target_max": 0.755,
+            "target_movement": 0.2103571428571429
+        },
+        "audio_aliases": [
+            "유"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.6579610086151706,
+                "max_ratio": 0.755,
+                "min_ratio": 0.5446428571428571,
+                "movement_range": 0.2103571428571429
+            }
+        ]
+    },
+    "으": {
+        "visual": {
+            "target_avg": 0.5141853437080579,
+            "target_max": 0.5431654676258992,
+            "target_movement": 0.055192959034833955
+        },
+        "audio_aliases": [
+            "으"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.5141853437080579,
+                "max_ratio": 0.5431654676258992,
+                "min_ratio": 0.4879725085910653,
+                "movement_range": 0.055192959034833955
+            }
+        ]
+    },
+    "의": {
+        "visual": {
+            "target_avg": 0.4618781254652873,
+            "target_max": 0.5476190476190477,
+            "target_movement": 0.13442927642120112
+        },
+        "audio_aliases": [
+            "의"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.4618781254652873,
+                "max_ratio": 0.5476190476190477,
+                "min_ratio": 0.41318977119784656,
+                "movement_range": 0.13442927642120112
+            }
+        ]
+    },
+    "이": {
+        "visual": {
+            "target_avg": 0.6023576472362018,
+            "target_max": 0.680327868852459,
+            "target_movement": 0.1088992974238876
+        },
+        "audio_aliases": [
+            "이"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.6023576472362018,
+                "max_ratio": 0.680327868852459,
+                "min_ratio": 0.5714285714285714,
+                "movement_range": 0.1088992974238876
+            }
+        ]
+    },
+    "즈": {
+        "visual": {
+            "target_avg": 0.5425876155168844,
+            "target_max": 0.5589285714285714,
+            "target_movement": 0.04162753336628766
+        },
+        "audio_aliases": [
+            "즈"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.5425876155168844,
+                "max_ratio": 0.5589285714285714,
+                "min_ratio": 0.5173010380622838,
+                "movement_range": 0.04162753336628766
+            }
+        ]
+    },
+    "쯔": {
+        "visual": {
+            "target_avg": 0.5111942654673867,
+            "target_max": 0.5438972162740899,
+            "target_movement": 0.052300577618627775
+        },
+        "audio_aliases": [
+            "쯔"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.5111942654673867,
+                "max_ratio": 0.5438972162740899,
+                "min_ratio": 0.49159663865546216,
+                "movement_range": 0.052300577618627775
+            }
+        ]
+    },
+    "츠": {
+        "visual": {
+            "target_avg": 0.519192987325038,
+            "target_max": 0.543859649122807,
+            "target_movement": 0.05269357138429115
+        },
+        "audio_aliases": [
+            "츠"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.519192987325038,
+                "max_ratio": 0.543859649122807,
+                "min_ratio": 0.4911660777385159,
+                "movement_range": 0.05269357138429115
+            }
+        ]
+    },
+    "크": {
+        "visual": {
+            "target_avg": 0.513471549493274,
+            "target_max": 0.5497382198952879,
+            "target_movement": 0.05917218215943887
+        },
+        "audio_aliases": [
+            "크"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.513471549493274,
+                "max_ratio": 0.5497382198952879,
+                "min_ratio": 0.49056603773584906,
+                "movement_range": 0.05917218215943887
+            }
+        ]
+    },
+    "트": {
+        "visual": {
+            "target_avg": 0.527582590548914,
+            "target_max": 0.552901023890785,
+            "target_movement": 0.04867090544746855
+        },
+        "audio_aliases": [
+            "트"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.527582590548914,
+                "max_ratio": 0.552901023890785,
+                "min_ratio": 0.5042301184433164,
+                "movement_range": 0.04867090544746855
+            }
+        ]
+    },
+    "프": {
+        "visual": {
+            "target_avg": 0.4632765365500309,
+            "target_max": 0.552434456928839,
+            "target_movement": 0.2243712158221196
+        },
+        "audio_aliases": [
+            "프"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.4632765365500309,
+                "max_ratio": 0.552434456928839,
+                "min_ratio": 0.32806324110671936,
+                "movement_range": 0.2243712158221196
+            }
+        ]
+    },
+    "흐": {
+        "visual": {
+            "target_avg": 0.5761192259291005,
+            "target_max": 0.6129629629629629,
+            "target_movement": 0.0712962962962963
+        },
+        "audio_aliases": [
+            "흐"
+        ],
+        "sample_count": 1,
+        "samples": [
+            {
+                "avg_ratio": 0.5761192259291005,
+                "max_ratio": 0.6129629629629629,
+                "min_ratio": 0.5416666666666666,
+                "movement_range": 0.0712962962962963
+            }
+        ]
+    }
+}

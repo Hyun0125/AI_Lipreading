@@ -1,0 +1,40 @@
+﻿# Python virtual environments
+backend/venv/
+backend/.venv/
+
+# Python cache
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/.pytest_cache/
+
+# Private configuration
+backend/**/.env
+backend/**/.env.*
+test_flutter/test_flutter/**/.env
+test_flutter/test_flutter/**/.env.*
+
+# Local database
+backend/**/*.db
+backend/**/*.db-*
+backend/**/*.sqlite
+backend/**/*.sqlite3
+
+# Uploaded videos
+backend/uploads/
+
+# Generated analysis outputs
+backend/extracted_audio.wav
+backend/trimmed_audio.wav
+backend/final_result.json
+
+# IDE and local files
+.idea/
+*.log
+
+# Local test recordings
+backend/ai/input_videos/
+# Generated AI analysis results
+backend/audio_score.txt
+backend/lip_score.json
+backend/speech_*.npy
+backend/speech_lip_landmarks.txt
