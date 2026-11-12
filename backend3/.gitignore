@@ -1,0 +1,34 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+outputs/
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment variables
+.env
+
+# Temporary uploaded files
+uploads/temp/
+uploads/videos/
+
+# Lipreading test results
+word_lipreading/results/
+word_lipreading/input_videos/
+
+# Cache and generated files
+
+# AI test input videos
+ ai/input_videos/
+
+ai/input_videos/

@@ -1,0 +1,2 @@
+backend3/word_lipreading/checkpoints/*.pt filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
